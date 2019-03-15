@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		Conta conta = new Conta();
 		
-		conta.setTitular("Sr. Leandro ");
+		conta.setTitular("Sr. Leandro Morais Pinto ");
 		conta.setSaldo(1000);
 		
 		System.out.println("Titular: " + conta.getTitular());
